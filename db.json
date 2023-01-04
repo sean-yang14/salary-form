@@ -1,0 +1,26 @@
+{
+  "feedback": [
+    {
+      "specialty": "orthodontist",
+      "generalYears": "2",
+      "specialtyYears": "1",
+      "employer": "large_private",
+      "city": "New York City",
+      "salary": "275000",
+      "productionBonus": "50000",
+      "signOnBonus": "30000",
+      "id": 1
+    },
+    {
+      "specialty": "pediatric",
+      "generalYears": "3",
+      "specialtyYears": "5",
+      "employer": "corporate",
+      "city": "New York City",
+      "salary": "150000",
+      "productionBonus": "75000",
+      "signOnBonus": "25000",
+      "id": 2
+    }
+  ]
+}
